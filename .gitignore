@@ -1,0 +1,31 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+Debug/
+Release/
+*.user
+*.suo
+
+# Base de datos (¡No subir la base de datos!)
+*.accdb
+*.mdb
+*.ldb
+*.laccdb
+
+# Archivos temporales
+*.log
+*.tmp
+*.cache
+
+# Archivos del sistema
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Archivos de configuración local
+*.local.config
+web.config.local
+
+# Respaldo
+*.bak
